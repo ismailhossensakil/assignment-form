@@ -1,0 +1,143 @@
+body{
+	margin: 0;
+		background-color: #0093FF;
+}
+header{
+	
+padding: 0%;
+	
+margin: 0%;
+}
+.container{
+
+overflow: hidden;
+
+width: 100%;
+
+margin: 14px 472px;
+} 
+ 
+nav{
+
+}
+nav ul{
+
+margin: auto;
+
+padding: o;
+}
+nav ul li{
+
+padding: 7px;
+
+list-style: none;
+
+text-transform: uppercase;
+
+display: inline-block;
+}
+nav ul li a{
+
+TEXT-DECORATION: none;
+
+transition-duration: 0.4s;
+
+font-size: 18px;
+
+padding: 5px 10px;
+
+display: block;
+
+transform-box: view-box;
+
+border-radius: 29px;
+
+background-color: aliceblue;
+}
+nav ul li a:hover{
+	color: #343B73;
+}
+aside{
+	
+width: 50%;
+	
+float: left;
+}
+aside .left-side{
+
+}
+.signup-section{
+	background-color: #5CBAFF;
+}
+.signup-box{
+
+text-align: center;
+
+width: 500px;
+
+margin-left: auto;
+
+margin-right: auto;
+
+padding-top: 30px;
+}
+.signup-box h1{
+
+color: aliceblue;
+
+text-transform: capitalize;
+}
+.signup-form{
+
+padding: 30px;
+}
+.signup-form form{
+
+background-color: aliceblue;
+
+padding: 20px;
+
+text-align: left;
+
+text-transform: capitalize;
+}
+.signup-form form label{
+
+color: #555;
+}
+.signup-form form input{
+
+width: 100%;
+
+text-transform: capitalize;
+
+padding: 10px;
+
+box-sizing: border-box;
+
+font-size: 14px;
+
+color: #555;
+
+border: ipx solid red;
+}
+.signup-form form input[type="submit"]{
+	background-color:#0093FF;
+	cursor: pointer;
+}
+.signup-form p{
+
+/* color: #555; */
+}
+.signup-form form p{
+
+text-align: center;
+
+color: #555;
+}
+.signup-form form a{
+
+color: #555;
+
+font-weight: 600;
+}
